@@ -2,7 +2,7 @@
 
 ### 見出し
 
-Markdownを使ってみよう
+Markdownを記述例
 ============
 
 Markdonwとは？
